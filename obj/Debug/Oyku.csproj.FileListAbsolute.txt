@@ -1,0 +1,6 @@
+C:\Proje\Oyku\Oyku\obj\Debug\Oyku.csprojAssemblyReference.cache
+C:\Proje\Oyku\Oyku\obj\Debug\Oyku.csproj.CoreCompileInputs.cache
+C:\Proje\Oyku\Oyku\bin\Debug\Oyku.dll
+C:\Proje\Oyku\Oyku\bin\Debug\Oyku.pdb
+C:\Proje\Oyku\Oyku\obj\Debug\Oyku.dll
+C:\Proje\Oyku\Oyku\obj\Debug\Oyku.pdb
